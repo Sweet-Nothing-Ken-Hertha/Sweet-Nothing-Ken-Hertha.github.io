@@ -125,7 +125,7 @@ home_banner:
   title: Sweet Nothing - Ken&Hertha
   # Home banner subtitle
   subtitle:
-    text: ["💗我们的小窝💗", "💗💗💗"] # subtitle text, array
+    text: ["💗This is our home💗", "💗💗💗"] # subtitle text, array
     hitokoto: # 一言配置
       enable: false # Whether to enable hitokoto
       show_author: false # Whether to show author
